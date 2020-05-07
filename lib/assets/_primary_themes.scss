@@ -194,3 +194,11 @@ input:focus, select:focus {
     @extend .btn-primary;
   }
 }
+
+.footer-link {
+  color: $primary-color-darken !important;
+}
+
+.footer-link:hover {
+  color: $primary-color !important;
+}
