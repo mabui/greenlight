@@ -136,10 +136,10 @@ module Greenlight
     config.primary_color_default = "#FFC003"
 
     # Default primary color lighten if the user does not specify one
-    # config.primary_color_lighten_default = "#e8eff9"
+    config.primary_color_lighten_default = "#e8eff9"
 
     # Default primary color darken if the user does not specify one
-    # config.primary_color_darken_default = "#316cbe"
+    config.primary_color_darken_default = "#333333"
 
     # Default registration method if the user does not specify one
     config.registration_method_default = if ENV["DEFAULT_REGISTRATION"] == "invite"
