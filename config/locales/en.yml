@@ -17,6 +17,7 @@
 # Locale.
 
 en:
+  avaco: AVACO GmbH
   activerecord:
     attributes:
       user:
@@ -230,7 +231,12 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: Powered by %{href}
+    legal_notice: Legal notice
+    privacy_policy: Privacy policy
+    terms_of_use:
+      companies: Terms of use for companies
+      persons: Terms of use for persons
   forgot_password:
     subtitle: Forgot Password
     email: Email
