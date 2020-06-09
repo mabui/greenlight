@@ -134,12 +134,11 @@ a {
 }
 
 .cookies-banner {
-  height: $footer-height;
   color: white;
   background-color: $button-color-blue;
 
   #cookies-agree-button {
-    background-color: green !important;
+    background-color: #333 !important;
   }
 }
 
@@ -180,4 +179,10 @@ table {
 
 #delete-confirm:disabled {
   cursor: not-allowed;
+}
+
+.header-brand-img {
+  height: auto;
+  width: 125px;
+  margin-right: 0;
 }
