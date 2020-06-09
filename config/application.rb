@@ -130,7 +130,7 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "https://www.my-portalive.com/static/img/portalive.f8cca4c.png"
+    config.branding_image_default = "https://www.my-portal.io/static/img/portal.64f1074.png"
 
     # Default primary color if the user does not specify one
     config.primary_color_default = "#FFC003"
